@@ -1,0 +1,20 @@
+.menu {
+    display: flex;
+    
+    background-color: gray;
+   
+    color:lavender;
+}
+
+body{
+    background-color: rgb(255, 234, 208);
+}
+
+
+.origami {
+   
+    background-color:whitesmoke;
+    
+    width: 310px;
+  
+}
